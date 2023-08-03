@@ -1,4 +1,4 @@
-switch-sys-tweak
+switch-sys-tweak-test
 ================
 
 [![Build](https://github.com/p-sam/switch-sys-tweak/workflows/Build/badge.svg?branch=master)](https://github.com/p-sam/switch-sys-tweak/actions?query=workflow%3ABuild)
